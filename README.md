@@ -1,5 +1,5 @@
 # ArtStyle-Classifier
-<pre>It finds the right artwork based on your taste of ~~Hentai~~ Art!</pre>
+    It finds the right artwork based on your taste of ~~Hentai~~ Art!
 
 ## Structure
 
